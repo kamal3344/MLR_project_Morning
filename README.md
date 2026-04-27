@@ -420,8 +420,8 @@ If you found this project helpful or have questions, feel free to reach out!
     <img src="https://img.shields.io/badge/LinkedIn-Sai%20Kamal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:saikamal3344@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saikamal3344%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:saikamal9797@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saikamal9797%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -432,6 +432,10 @@ If you found this project helpful or have questions, feel free to reach out!
 </p>
 
 ---
+
+<p align="center">
+  🔗 <b>LinkedIn Profile:</b> <a href="https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163">https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163</a>
+</p>
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/kamal3344"><b>Sai Kamal</b></a> | © 2026
